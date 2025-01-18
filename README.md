@@ -2,6 +2,7 @@
 STOCK MARKET MOVEMENT PREDICTOR
 # Stock Market Predictor
 
+
 This project aims to predict stock prices using two primary methods: **Geometric Brownian Motion (GBM)** for modeling the stock price movement and **Linear Regression** for making future predictions based on historical data.
 
 ## Project Overview
